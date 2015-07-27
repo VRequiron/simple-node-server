@@ -1,0 +1,119 @@
+div {
+    font-family: "Comfortaa";
+}
+.rect {
+    color: #84befe;
+    border: dashed;
+    width: 70px;
+    height: 165px;
+    margin: -4px;
+    position: fixed;
+    top: 300px;
+    right: 0px;
+    padding-top: 10px;
+    text-decoration: none;
+    font-size: 29px;
+    text-align: center;
+    border-radius: 10px;
+}
+.rect a{
+    top: 8px;
+    text-decoration: none;
+    color: #84befe;
+}
+.whole {
+    background-color: #cbe5ff;
+    width: 980px;
+    height: 1300px;
+    padding: 40px;
+    margin: auto;
+}
+.header {
+    position: relative;
+}
+.box {
+    width: 200px;
+    Height: 200px;
+    background-color: white;
+    position: absolute;
+    bottom: 120px;
+    z-index: 1;
+    box-shadow: 5px 5px 10px gray;
+}
+.preview {
+    height: 360px;
+    width: 800px;
+    background-color: #84befe;
+    position: relative;
+    margin-left: 180px;
+    margin-right: 100px;
+    font-size: 90px;
+    text-shadow: 5px 5px 10px gray;
+    color: white;
+}
+.container {
+    background-color: white;
+    width: 980px;
+    margin: auto;
+    height: 500px;
+    top: 15px;
+    position: relative;
+}
+.nav a{
+    float: left;
+    width: 175px;
+    color: white;
+    background-color: #84befe;
+    padding: 10px;
+    border-right: 1px solid white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 0px 15px 0px 0px;
+}
+a:hover {
+    background-color: white;
+    color: #84befe;
+}
+.last {
+    background-color: white;
+    width: 960px;
+    height: 320px;
+    position: absolute;
+    top: 520px;
+    padding: 10px;
+}
+.left {
+    border: 2.5px dashed;
+    border-color: #84befe;
+    width: 460px;
+    height: 300px;
+    float: left;
+    margin-top: 7px;
+    padding: 5px;
+}
+.right {
+    border: 2.5px dashed;
+    border-color: #84befe;
+    width: 460px;
+    height: 300px;
+    float: right;
+    margin-top: 7px;
+    padding: 5px;
+}
+.left-head {
+    background-color: #84befe;
+    width: 458px;
+    height: 60px;
+}
+.right-head {
+    background-color: #84befe;
+    width: 458px;
+    height: 60px;
+}
+.footer {
+    color: #84befe;
+    position: relative;
+    bottom: -385px;
+    left: 775px;
+    font-size: 20px;
+}

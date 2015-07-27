@@ -1,0 +1,23 @@
+p{
+	background-color: lightblue;
+	width: 200px;
+	padding: 25px;
+	border: 25px;
+	
+	margin-top: 25px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	margin-left: 25px;
+	/*SAME AS*/
+	margin: 25px;
+}
+.cent {
+	margin: auto;
+	background: lightblue;
+	width: 66%;
+}
+.uncent {
+	margin: 20px;
+	background: lightblue;
+	width: 66%;
+}

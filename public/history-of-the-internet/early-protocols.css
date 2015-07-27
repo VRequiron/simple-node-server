@@ -1,0 +1,56 @@
+div {
+    font-family: "Cinzel"
+}
+.whole {
+    width: 980px;
+    height: 944px;
+    padding: 40px;
+    margin: auto;
+    background: url(http://img10.deviantart.net/f372/i/2014/283/8/3/blue_pattern_design_free_vector_by_vecree-d829oba.jpg);
+}
+.header {
+    position: relative;
+}
+.preview {
+    height: 200px;
+    width: 960px;
+    background-color: #22335A;
+    position: center;
+    font-size: 90px;
+    color: #7885A2;
+    text-align: center;
+    padding-top: 60px;
+    border-radius: 25px;
+}
+.container {
+    width: 980px;
+    margin: auto;
+    height: 500px;
+    top: 15px;
+    position: relative;
+    background-color: #22335A;
+    text-align: justify;
+    color: #7885A2;
+    padding: 5px;
+}
+.last {
+    background-color: #22335A;
+    width: 960px;
+    height: 75px;
+    position: absolute;
+    top: 570px;
+    padding: 10px;
+}
+.nav a{
+    float: left;
+    width: 225px;
+    color: #7885A2;
+    background-color: #0F1D3F;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #7885A2;
+    color: #0F1D3F;
+}
